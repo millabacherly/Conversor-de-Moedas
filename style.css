@@ -4,7 +4,7 @@ body {
   font-family: "Comic Neue", cursive;
   min-height: 400px;
   background-image: url("https://www.onlygfx.com/wp-content/uploads/2020/11/stack-of-gold-coins-3.png");
-  background-color: #ceebdf;
+  background-color: #98b7a4;
   background-size: 100vh;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -23,7 +23,7 @@ body {
 }
 
 .page-subtitle {
-  color: #467c69;
+  color: #1d4839;
   margin-top: 5px;
 }
 
@@ -45,7 +45,7 @@ input {
 }
 
 label {
-  color: #467c69;
+  color: #1d4839;
 }
 
 button {
